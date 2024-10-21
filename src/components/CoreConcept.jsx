@@ -1,4 +1,4 @@
-//Sie nimmt drei props entgegen, und rendert eine Liste mit den drei Werten.
+//(fÜR MICH )Sie nimmt drei props entgegen, und rendert eine Liste mit den drei Werten.
 export default function CoreConcept({ image, title, description }) {
   return (
     <li>
